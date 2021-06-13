@@ -1,0 +1,2 @@
+File 1 
+copy same to file 2
